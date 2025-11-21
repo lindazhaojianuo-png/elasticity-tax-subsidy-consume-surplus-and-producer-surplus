@@ -1,0 +1,5 @@
+{
+  "name": "EconVis: Surplus Simulator",
+  "description": "An interactive dual-panel simulator to visualize Consumer and Producer Surplus changes under Tax and Subsidy with adjustable Elasticities.",
+  "requestFramePermissions": []
+}
